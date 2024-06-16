@@ -31,6 +31,7 @@ path = model.export(format="onnx")  # export the model to ONNX format
 # DIOR
 It is a large-scale, public remote sensing image object detection dataset. The dataset contains 23,463 images and 192,472 instances, covering 20 different target categories.
 
+！[代码运行]https://github.com/xychosk/xychosk.github.io/blob/main/YOLOv8.gif
 
 See YOLOv8 [Python Docs](https://docs.ultralytics.com/usage/python) for more examples.
 
