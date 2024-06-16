@@ -1,0 +1,8 @@
+
+train: 'D:\\Study\\CV\\DataSet\\DIOR\\train\\images'
+val: 'D:\\Study\\CV\\DataSet\\DIOR\\valid\\images'
+
+nc: 20
+names: ['airplane', 'airport', 'baseballfield', 'basketballcourt', 'bridge', 'chimney', 'dam',
+        'Expressway-Service-area', 'Expressway-toll-station', 'golffield', 'groundtrackfield',
+        'harbor', 'overpass', 'ship', 'stadium', 'storagetank', 'tenniscourt', 'trainstation', 'vehicle', 'windmill']
